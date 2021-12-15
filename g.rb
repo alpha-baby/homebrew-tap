@@ -4,9 +4,9 @@
 class G < Formula
   desc "Golang Version Manager"
   homepage "https://github.com/voidint/g"
-  version "1.2.0"
-  url "https://github.com/voidint/g/archive/v1.2.0.tar.gz"
-  sha256 "ea33a510df3523c152e74f8573b5b4bbf779b7740f66d73afed43e0762f71183"
+  version "1.2.1"
+  url "https://github.com/voidint/g/archive/v1.2.1.tar.gz"
+  sha256 "863baabc56c43ada7a7d6390155101b9d0f911b88ed237ddee95a79c5dcb5efe"
   license "MIT"
 
   depends_on "go" => :build
